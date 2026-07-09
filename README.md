@@ -1,7 +1,7 @@
 ## Hi there I'm Sumey👋
       
 
-https://komarev.com/ghpvc/?username=sumey-7&repo=Mechanical-Task-1&color=blue
+![Unique Views]https://komarev.com/ghpvc/?username=sumey-7&repo=Mechanical-Task-1&color=blue
 
 
 - 🔭 I’m currently working on ...
